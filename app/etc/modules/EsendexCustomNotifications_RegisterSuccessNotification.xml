@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <EsendexCustomNotifications_RegisterSuccessNotification>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </EsendexCustomNotifications_RegisterSuccessNotification>
+    </modules>
+</config>

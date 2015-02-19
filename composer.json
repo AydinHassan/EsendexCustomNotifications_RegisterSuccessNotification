@@ -1,0 +1,17 @@
+{
+    "name": "esendex-custom-notifications/register-success-notification",
+    "type":"magento-module",
+    "description": "A module which provides an Esendex SMS event to send an SMS to customers when they register",
+    "authors": [
+        {
+            "name": "Aydin Hassan",
+            "email": "aydin@hotmail.co.uk"
+        }
+    ],
+    "extra": {
+        "map": [
+            ["app/code/community/EsendexCustomNotifications/RegisterSuccessNotification",   "app/code/community/EsendexCustomNotifications/RegisterSuccessNotification"],
+            ["app/etc/modules/EsendexCustomNotifications_RegisterSuccessNotification.xml",  "app/etc/modules/EsendexCustomNotifications_RegisterSuccessNotification.xml"]
+        ]
+    }
+}
